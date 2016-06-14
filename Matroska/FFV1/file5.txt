@@ -1,0 +1,1 @@
+ffmpeg -y -f lavfi -i mandelbrot=s=720x576 -vf "format=yuv420p" -level 3 -r 25 -t 2 -coder 1 -vcodec ffv1 -acodec pcm file5.mkv
