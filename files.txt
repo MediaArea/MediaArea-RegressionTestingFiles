@@ -1,9 +1,8 @@
 ./AVI/AVC/file1.avi
 ./AVI/AC-3/file1.avi
 ./AVI/AAC/file1.avi
-./MpegPs/DTS/file1.vob
-./flv/mp3/file1.flv
-./Mpeg4/h264/file1.mp4
+./FLV/MPEG Audio/file1.flv
+./MPEG-4/AVC/file1.mp4
 ./Matroska/FFV1/file2.mkv
 ./Matroska/FFV1/file3.mkv
 ./Matroska/FFV1/file5.mkv
@@ -11,3 +10,4 @@
 ./Matroska/FFV1/file4.mkv
 ./Matroska/FFV1/file1.mkv
 ./Matroska/HEVC/file1.mkv
+./MPEG-PS/DTS/file1.vob
