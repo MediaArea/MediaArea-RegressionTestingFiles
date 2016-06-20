@@ -1,0 +1,1 @@
+ffmpeg -f lavfi -i sine=frequency=1000:sample_rate=48000:duration=5 -t 2 -c:a dts -strict -2 file1.vob

@@ -1,0 +1,1 @@
+ffmpeg -f lavfi -i mandelbrot=s=720x576 -f lavfi -i sine=frequency=1000:sample_rate=48000:duration=2 -r 25 -t 2 -c:v hevc -c:a aac -b:a 192k -shortest file1.mkv
