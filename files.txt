@@ -11,4 +11,5 @@
 ./Matroska/FFV1/file1.mkv
 ./Matroska/HEVC/file1.mkv
 ./Matroska/Matroska_with_CRC-32_everywhere.mkv
+./Matroska/Matroska_with_invalid_Tracks_seek.mkv
 ./MPEG-PS/DTS/file1.vob
